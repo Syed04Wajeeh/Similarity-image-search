@@ -1,3 +1,6 @@
+//YuYang Liu 300299216 and Wajeeh Syed 300299214
+
+
 public class ColorHistogram {
     // Assuming a simplified histogram structure for demonstration
     private int[] data;
@@ -17,7 +20,7 @@ public class ColorHistogram {
      return null; // Placeholder
     }
 
-    public void computeHistogram(BufferedImage img) {
+    public void computeHistogram(ColorImage img) {
         // Compute the histogram based on the provided image
     }
 

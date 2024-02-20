@@ -1,3 +1,5 @@
+//YuYang Liu 300299216 and Wajeeh Syed 300299214
+
 import java.awt.image.BufferedImage;
 
 public class ColorImage {

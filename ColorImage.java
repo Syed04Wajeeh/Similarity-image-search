@@ -49,7 +49,6 @@ public class ColorImage {
     }
 
     public void reduceColor(int d) {
-    }
+	}
 
-   
 }
